@@ -1,6 +1,12 @@
-# 🥁 Maracatu AI
+<p align="center">
+  <img src="profile/logo.png" alt="Maracatu AI" width="120">
+</p>
 
-> **Modelos de linguagem abertos em português brasileiro, construídos do zero, para soberania nacional em IA.**
+<h1 align="center">Maracatu AI</h1>
+
+<p align="center">
+  <strong>Modelos de linguagem abertos em português brasileiro, construídos do zero, para soberania nacional em IA.</strong>
+</p>
 
 ---
 
@@ -39,7 +45,7 @@ Pesquisadores, desenvolvedores e entusiastas de IA brasileira são bem-vindos. A
 ## Contato
 
 - **Website:** [maracatu.ai](https://maracatu.ai) *(em breve)*
-- **HuggingFace:** [huggingface.co/maracatu-ai](https://huggingface.co/maracatu-ai) *(em breve)*
+- **HuggingFace:** [huggingface.co/maracatu-ai](https://huggingface.co/maracatu-ai)
 
 ---
 
