@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="profile/logo.png" alt="Maracatu AI" width="120">
+  <img src="https://raw.githubusercontent.com/maracatu-ai/.github/main/profile/logo.png" alt="Maracatu AI" width="120">
 </p>
 
 <h1 align="center">Maracatu AI</h1>
