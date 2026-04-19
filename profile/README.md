@@ -1,22 +1,12 @@
-<p align="center">
-  <img src="https://raw.githubusercontent.com/maracatu-ai/.github/main/profile/logo.png" alt="Maracatu AI" width="96">
-</p>
+# Maracatu AI
 
-<h2 align="center">Maracatu AI</h2>
+Open language models in Brazilian Portuguese, built from scratch for national AI sovereignty.
 
-<p align="center">
-  Open language models in Brazilian Portuguese, built from scratch for national AI sovereignty.
-</p>
-
-<p align="center">
-  <a href="https://maracatu.ai">maracatu.ai</a>
-  &nbsp;·&nbsp;
-  <a href="https://huggingface.co/maracatu-ai">Hugging Face</a>
-</p>
+[maracatu.ai](https://maracatu.ai) · [Hugging Face](https://huggingface.co/maracatu-ai)
 
 ---
 
-We are an independent Brazilian research lab developing open-source language models that understand the language, culture, and regulatory context of Brazil natively — without relying on translation layers or foreign APIs. Our work contributes to the [Brazilian AI Plan (PBIA 2024–2028)](https://www.gov.br/mcti/pt-br/acompanhe-o-mcti/transformacaodigital/plano-brasileiro-de-inteligencia-artificial).
+Maracatu AI is an independent Brazilian research lab developing open-source language models that understand the language, culture, and regulatory context of Brazil natively — without relying on translation layers or foreign APIs. Our work contributes to the [Brazilian AI Plan (PBIA 2024–2028)](https://www.gov.br/mcti/pt-br/acompanhe-o-mcti/transformacaodigital/plano-brasileiro-de-inteligencia-artificial).
 
 ### Projects
 
