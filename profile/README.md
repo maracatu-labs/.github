@@ -1,12 +1,8 @@
-<div align="center">
-
 ### Maracatu Labs
 
 **Open source from Brazil: foundation models, civic AI, and network infrastructure.**
 
 [maracatu.org](https://maracatu.org) · [Hugging Face](https://huggingface.co/maracatu-ai)
-
-</div>
 
 Maracatu Labs is an independent Brazilian open source effort building infrastructure and applications around three intertwined themes: foundation models native to Brazilian Portuguese, AI agents for civic transparency, and the systems software that runs them. We contribute to the [Brazilian AI Plan (PBIA 2024–2028)](https://www.gov.br/mcti/pt-br/acompanhe-o-mcti/transformacaodigital/plano-brasileiro-de-inteligencia-artificial).
 
@@ -14,7 +10,7 @@ Maracatu Labs is an independent Brazilian open source effort building infrastruc
 
 ### [maracatu](https://github.com/maracatu-labs/maracatu)
 
-Open-weight language models trained from scratch in Brazilian Portuguese. Llama-style decoder-only transformer, Apache 2.0 across code and weights. Released models so far: **Maracatu-20M** (17M params, val PP 23.81) and **Maracatu-80M** (87.8M params, val PP 21.34 on a 3.27M-token holdout — outperforming Tucano-160M with roughly half the parameters). Ladder of releases: 20M → 80M → 800M → 8B → 80B.
+Open-weight language models trained from scratch in Brazilian Portuguese. Llama-style decoder-only transformer, Apache 2.0 across code and weights. Released models so far: **Maracatu-20M** (17M params, val PP 23.81) and **Maracatu-80M** (87.8M params, val PP 21.34 on a 3.27M-token holdout — outperforming Tucano-160M with roughly half the parameters).
 
 ### [calunga](https://github.com/maracatu-labs/calunga)
 
