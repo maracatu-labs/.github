@@ -1,6 +1,6 @@
 <div align="center">
 
-<img src="profile/logo.png" alt="Maracatu Labs" width="160" />
+<img src="https://raw.githubusercontent.com/maracatu-labs/.github/main/profile/logo.png" alt="Maracatu Labs" width="160" />
 
 # Maracatu Labs
 
