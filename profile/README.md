@@ -1,7 +1,5 @@
 <div align="center">
 
-<img src="https://raw.githubusercontent.com/maracatu-labs/.github/main/profile/logo.png" alt="Maracatu Labs" width="160" />
-
 # Maracatu Labs
 
 **Open source from Brazil: foundation models, civic AI, and network infrastructure.**
