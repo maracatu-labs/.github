@@ -1,6 +1,6 @@
 <div align="center">
 
-# Maracatu Labs
+### Maracatu Labs
 
 **Open source from Brazil: foundation models, civic AI, and network infrastructure.**
 
