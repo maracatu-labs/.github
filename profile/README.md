@@ -8,8 +8,6 @@
 
 </div>
 
----
-
 Maracatu Labs is an independent Brazilian open source effort building infrastructure and applications around three intertwined themes: foundation models native to Brazilian Portuguese, AI agents for civic transparency, and the systems software that runs them. We contribute to the [Brazilian AI Plan (PBIA 2024–2028)](https://www.gov.br/mcti/pt-br/acompanhe-o-mcti/transformacaodigital/plano-brasileiro-de-inteligencia-artificial).
 
 ## Projects
